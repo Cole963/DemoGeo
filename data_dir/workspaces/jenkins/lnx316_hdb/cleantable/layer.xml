@@ -1,0 +1,16 @@
+<layer>
+  <name>cleantable</name>
+  <id>LayerInfoImpl-9b86bb8:17d927dc7ef:-7ffb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-37b18cc6:14d5d036d48:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-9b86bb8:17d927dc7ef:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-12-07 01:33:42.598 UTC</dateCreated>
+</layer>
